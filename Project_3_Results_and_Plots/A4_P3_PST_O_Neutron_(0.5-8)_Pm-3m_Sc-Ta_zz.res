@@ -1,0 +1,83 @@
+* Fri Jan 24 17:30:55 2025
+
+ ==============================================================================
+ PDF REFINEMENT
+   Using PDFFIT version : 1.4.3
+ ==============================================================================
+ ------------------------------------------------------------------------------
+ PHASE 1 : UNNAMED
+ ------------------------------------------------------------------------------
+ Scale factor           : 1.07762 (0.044)
+   Particle diameter    : not applied
+   Step cutoff          : not applied
+ Quad. corr. factor     : 0.359324 (0.71)
+ Lin. corr. factor      : 0
+ Low r sigma ratio      : 1
+ R cutoff [A]           : 0
+ Lattice parameters     : 4.08334 (0.0039)    4.08334 (0.0039)    4.08334 (0.0039)
+           & angles     : 90                  90                  90
+
+ Atom positions & occupancies :
+   PB   0                   0                   0                   1
+   SC   0.5                 0.5                 0.481662            0.5
+   TA   0.5                 0.5                 0.492969            0.5
+   O    0.5                 0.5                 0                   1
+   O    0                   0.5                 0.5                 1
+   O    0.5                 0                   0.5                 1
+
+ Anisotropic temperature factors :
+   PB   0.0434378 (0.0032)  0.0434378 (0.0032)  0.0434378 (0.0032)
+   SC   0.00431423          0.00431423          0.00431423
+   TA   0.00354918 (0.0016) 0.00354918 (0.0016) 0.00354918 (0.0016)
+   O    0.0434611 (0.0033)  0.0434611 (0.0033)  0.00754684 (0.0024)
+   O    0.00754684 (0.0024) 0.0434611 (0.0033)  0.0434611 (0.0033)
+   O    0.0434611 (0.0033)  0.00754684 (0.0024) 0.0434611 (0.0033)
+ ------------------------------------------------------------------------------
+ DATA SET : 1 (string)
+ ------------------------------------------------------------------------------
+ Data range in r [A]    : 0.49     -> 8             Step dr  : 0.01
+ Calculated range       : 0.49     -> 8.75398
+ Refinement r range     : 0.49     -> 8             Data pts : 0     -> 751
+ Reduced chi squared    : 0.0818894
+ Rw - value             : 0.21044
+
+
+ Experimental settings  :
+   Radiation            : Neutrons
+   Termination at Qmax  : 50 A**-1
+   DQ dampening Qdamp   : 0.017659 A**-1
+   DQ broadening Qbroad : 0.0191822 A**-1
+   Scale factor         : 1
+
+ Selected phases and atoms for this data set :
+   Phase 1 :
+     Atoms (i) :  PB  SC  TA  O
+     Atoms (j) :  PB  SC  TA  O
+
+ Relative phase content in terms of
+           atoms                   unit cells              mass
+ Phase 1 : 1                       1                       1
+
+ ------------------------------------------------------------------------------
+ PARAMETER INFORMATION :
+ ------------------------------------------------------------------------------
+ Number of constraints        : 25
+ Number of refined parameters : 7
+ Number of fixed parameters   : 3
+
+ Refinement parameters :
+   1: 1.07762 (0.044)         2: 4.08334 (0.0039)       14: 0.0434378 (0.0032)
+  24: 0.00431423             25: 0.00354918 (0.0016)    44: 0.0434611 (0.0033)
+  46: 0.00754684 (0.0024)    50: 0.359324 (0.71)        60: 0.481662
+  61: 0.492969
+ ------------------------------------------------------------------------------
+ REFINEMENT INFORMATION:
+ ------------------------------------------------------------------------------
+ Number of iterations : 4
+ Reduced chi squared  : 0.0818894
+ Rw - value           : 0.21044
+
+ Correlations greater than 0.8 :
+
+   *** none ***
+ ==============================================================================
